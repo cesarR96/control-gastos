@@ -402,3 +402,12 @@ body .modal {
     font-size: 2.4rem;
     text-align: right;
 }
+
+
+.centrar{
+    text-align: center !important;
+}
+
+.ancho{
+    width: 80% !important;
+}
